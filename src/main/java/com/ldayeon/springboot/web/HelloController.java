@@ -1,4 +1,4 @@
-package com.ldayeon.springboot;
+package com.ldayeon.springboot.web;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
